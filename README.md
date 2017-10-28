@@ -4,3 +4,5 @@ There are four fundamental transformations. Data is:
    2. Transformed by the mappers
    3.Sorted, merged, and presented to the reducer
    4. Transform by reducers and written to output files
+
+________________________________________________________________________________________________________
